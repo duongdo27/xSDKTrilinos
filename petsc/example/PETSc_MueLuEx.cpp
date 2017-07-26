@@ -319,3 +319,8 @@ PetscErrorCode ShellApplyML(PC pc,Vec x,Vec y)
   return 0;
 } /*ShellApplyML*/
 
+/*--- Trilinos example metadata
+Categories: iterative solvers, preconditioners, external interfaces
+Topics: Solve a linear system
+Prerequisites: Ifpack2_ex1.cpp, Simple.cpp
+*/
