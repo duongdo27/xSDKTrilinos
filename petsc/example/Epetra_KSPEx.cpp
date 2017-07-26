@@ -205,3 +205,9 @@ int main(int argc, char *argv[]) {
 
   return EXIT_SUCCESS;
 }
+
+/*--- Trilinos example metadata
+Categories: iterative solvers, preconditioners, external interfaces
+Topics: Solve a linear system
+Prerequisites: PseudoBlockPrecCGEpetraExFile.cpp
+*/
