@@ -199,3 +199,9 @@ int main(int argc,char **args)
 } /*main*/
 
 /* ***************************************************************** */
+
+/*--- Trilinos example metadata
+Categories: direct solvers, external interfaces
+Topics: Solve a linear system
+Prerequisites: SimpleSolve_File.cpp
+*/
