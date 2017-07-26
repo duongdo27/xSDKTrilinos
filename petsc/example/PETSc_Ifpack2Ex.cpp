@@ -235,3 +235,9 @@ int main(int argc, char *args[]) {
   ierr = PetscFinalize(); CHKERRQ(ierr);
   return EXIT_SUCCESS;
 }
+
+/*--- Trilinos example metadata
+Categories: iterative solvers, preconditioners, external interfaces
+Topics: Solve a linear system
+Prerequisites: Ifpack2_ex1.cpp, Simple.cpp
+*/
