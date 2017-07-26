@@ -210,3 +210,9 @@ int main(int argc,char **args)
 } /*main*/
 
 /* ***************************************************************** */
+
+/*--- Trilinos example metadata
+Categories: eigensolvers, external interfaces
+Topics: Solve an eigenvalue problem
+Prerequisites: TraceMinDavidsonGeneralizedEx.cpp
+*/
